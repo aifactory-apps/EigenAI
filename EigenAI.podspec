@@ -18,4 +18,5 @@ Pod::Spec.new do |s|
     s.header_mappings_dir = '.'
     s.preserve_paths = 'Eigen_ai//**'
     s.xcconfig = { 'HEADER_SEARCH_PATHS' => '"${PODS_ROOT}/EigenAI/Eigen_ai/"' }
+    s.compiler_flags = '-DEIGEN_MPL2_ONLY'
 end
