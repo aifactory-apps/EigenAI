@@ -1,6 +1,7 @@
 ## EigenAI
 
-This repository is AiFactory redistribution of Eigen - popular C++ library for fast linear algebra calculation.
+This repository is AiFactory redistribution of Eigen - popular C++ library for fast linear algebra calculation. 
+Version of original library: `3.3.4`
 
 Initial source could be found here: https://bitbucket.org/eigen/eigen/
 
